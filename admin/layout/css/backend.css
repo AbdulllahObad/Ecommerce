@@ -1,0 +1,217 @@
+/* Main Rulez*/
+
+.body{
+       background-color: #b9b9b9;
+       font-family: cursive;
+}
+
+.login {
+       width: 300px;
+       margin: 100px auto;
+}
+
+.login h4 { 
+       color:#888 ;
+}
+
+.login input {
+       margin-bottom: 10px;
+}
+
+.login .form-control {
+       background-color: white;
+}
+
+.login .btn{
+       background-color: #008dde;
+       width: 300px;
+
+}
+
+
+/* Start Bootstrap Edite*/
+.active:hover{
+       background-color: #2980b9;
+}
+.dropdown-item:hover{
+       background-color: #2980b9;
+}
+.dropdown-item,
+.navbar-nav .active{
+       min-width: 180px;
+       font-size: 1.4em;
+       border-radius: 0;
+     
+
+}
+.show
+{
+       box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+     
+}
+@media (min-width: 992px){
+       .navbar-expand-lg .navbar-nav .dropdown-menu {
+              position: absolute;
+              top: 55px;
+              padding-top: 0%;
+          }
+}
+
+.form-horizontal{
+       display:block;
+       width:50%;
+       margin:0 auto;
+}
+h1 {
+       font-weight: bold;
+       font-size: 44px;
+       margin: 40px 0;
+       margin-top: 100px;
+       color: #666;
+   }
+
+.fa {
+       position: absolute;
+       top: 317px;
+       right: 23%;
+}
+.main-table tr:first-child td{
+       background-color: #212529;
+       color: #fff;
+}
+.table {
+       --bs-table-bg: #a8a8a8;
+}
+
+/* Dashborad Page */
+
+.home-stats .stat{      
+       border: 1px solid #ccc;
+       padding: 20px;
+       font-size: 20px;
+       color: #fff;
+       border-radius: 10px;
+}
+.home-stats .stat a{
+     color: #fff;
+     text-decoration: none;
+}
+.home-stats .st-members{
+       background-color: #0984e3;
+}
+.home-stats .st-pending{
+       background-color: #e17055;
+
+}
+.home-stats .st-items{
+       background-color: red;
+
+}
+.home-stats .st-comments{
+       background-color: #00b894;
+}
+
+
+.home-stats .stat span{
+       display: block;
+       font-size: 50px;
+}
+.latest {
+       margin-top: 30px;
+}
+
+.latest-users li {
+      padding: 5px 4px; 
+      overflow: hidden;
+}
+
+.latest-users li:nth-child(odd) {
+       background-color: #eee;
+ }
+
+.latest-users .btn-success,
+.latest-users .btn-info {
+       padding: 2px 8px;
+}
+.latest-users .btn-info {
+   margin-right: 4px;
+}
+
+
+/*End Dashord page */
+.categories .cat{
+       position: relative;
+       padding: 15px;
+       overflow: hidden; /*  TO hide all the btn that gose out of the div "cat"   */
+}
+.categories .cat:hover .hidden-buttons{
+       right: 10px;
+}
+.categories .cat:hover {
+       background-color: #eee;
+}
+
+.categories .cat .hidden-buttons a {
+       margin-right: 5px;
+       padding: 0px 7px;
+}
+.categories .cat .hidden-buttons  {
+       -webkit-animation: all .5s ease-in-out;
+       -moz-transition: all .5s ease-in-out;
+       transition: all .5s ease-in-out ;
+       position: absolute;
+       top: 15px;
+       right: -132px;
+
+}
+
+.categories .cat h3{
+       margin: 0 ;
+       color: #666;
+       padding-left: 10px;
+       cursor: pointer;
+}
+.categories .cat .full-view p{
+       margin: 10px 0;
+}
+.categories  hr{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.categories .cat:last-of-type ~ hr{
+  display: none;
+}
+
+.categories .cat  .visiblity,
+.categories .cat  .ads  {
+       background-color: #e74c3c;
+       color: #fff;
+       padding: 3px 7px;
+       margin-right: 10px;
+       border-radius: 6px;
+
+}
+.categories .cat  .commenting  {
+       background-color: #95a5a6;
+       color: #fff;
+       padding: 3px 7px;
+       margin-right: 10px;
+       border-radius: 6px;
+
+}
+.categories .card .ordering a {
+       color: #888;
+       text-decoration: none;
+}
+.categories .card .ordering .active {
+       color: #f00;
+       font-weight: bold;
+}
+.categories  {
+  margin-bottom: 30px;
+}
+
+.categories .add-cat{
+       margin-top: 30px;
+}
