@@ -1,6 +1,7 @@
 # Multilingual E-commerce Platform
 
-![Project Preview]([Screenshot 2023-07-28 231607.png](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231607.png)) <!-- You can add an image showing a preview of your project here -->
+![alt text]([https://github.com/AbdulllahObad/Dansing-Fountaine/blob/main/Untitled-2022-06-12-211%20(1).png](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231607.png))
+
 
 ## Description
 
