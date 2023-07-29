@@ -1,6 +1,6 @@
 # Multilingual E-commerce Platform
 
-![Project Preview](/path/to/preview.png) <!-- You can add an image showing a preview of your project here -->
+![Project Preview](Screenshot 2023-07-28 231607.png) <!-- You can add an image showing a preview of your project here -->
 
 ## Description
 
