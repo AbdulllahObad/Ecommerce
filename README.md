@@ -1,6 +1,6 @@
 # Multilingual E-commerce Platform
 
-![alt text]([https://github.com/AbdulllahObad/Dansing-Fountaine/blob/main/Untitled-2022-06-12-211%20(1).png](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231607.png))
+![alt text](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231607.png)
 
 
 ## Description
