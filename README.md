@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact me at your@email.com.
+For any inquiries or questions, please contact me at abdullah.s.obad@gmail.com
