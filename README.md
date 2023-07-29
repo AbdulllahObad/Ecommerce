@@ -40,6 +40,13 @@ To run the project locally, follow these steps:
 5. Modify the database connection settings in the appropriate PHP files (`config.php`, etc.).
 6. Access the platform via the local server (e.g., `http://localhost/multilingual-ecommerce`).
 
+
+![alt text](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231712.png)
+
+![alt text](https://github.com/AbdulllahObad/Ecommerce/blob/main/Screenshot%202023-07-28%20231633.png)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
